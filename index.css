@@ -74,9 +74,9 @@ body{
   font-size: 60px;
   font-size: 8vw;
   font-family: 'Anton', sans-serif;
-  background: -webkit-linear-gradient(right, #39e600, red, blue, green, pink);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color:blue;
+
+ 
 
 
 
@@ -197,7 +197,7 @@ body{
   text-align: center;
   font-family: 'Monoton', cursive;
   word-spacing: 10px;
-  colour:blue;
+  color: blue;
 
 
 }
