@@ -197,9 +197,9 @@ body{
   text-align: center;
   font-family: 'Monoton', cursive;
   word-spacing: 10px;
-  background: -webkit-linear-gradient(left, blue, red);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  colour:blue;
+
+
 }
 
 .sbd{
@@ -212,9 +212,9 @@ body{
 
 .scd{
   font-size: 3.4vw;
-  background: -webkit-linear-gradient(right, #39e600, red, blue, green, black, black);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: black;
+
+
   font-family: 'Great Vibes', cursive;
   font-weight: bold;
 }
