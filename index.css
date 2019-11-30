@@ -7,7 +7,7 @@ body{
   font-size: 30px;
   word-spacing: 3px;
   letter-spacing: 3px;
-  color: red;
+
 }
 
 .bg{
@@ -23,7 +23,7 @@ body{
 
 
 .rock{
-  background-color: black;
+  background-color: #181818;
 }
 
 
