@@ -7,13 +7,9 @@ body{
   font-size: 30px;
   word-spacing: 3px;
   letter-spacing: 3px;
-
 }
 
-.bg{
-  background-color: black;
-  color: red;
-}
+
 
 
 .datc{
@@ -30,10 +26,24 @@ body{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .ert{
   font-size: 7vw;
   border: 2px solid red;
--  font-family: 'Anton', sans-serif;
+  font-family: 'Anton', sans-serif;
   border-radius: 20px;
   border-top-right-radius: 0px;
   border-bottom-left-radius: 0px;
@@ -42,12 +52,11 @@ body{
   background: -webkit-linear-gradient(right, yellow, blue, red);
   -webkit-background-clip: transparent;
   -webkit-text-fill-color: #fff;
+  box-shadow: -10px -10px 35px 10px #fff;
     
 }
 
-.ert:hover{
-  box-shadow: -10px -10px 25px #fff;
-}
+
 
 #withoutnavbar{
   margin-top: 60px;
@@ -60,11 +69,31 @@ body{
 
 
 .main_images{
-  min-height: 100px;
-  max-height: 700px;
+  min-height: 250px;
+  max-height: 650px;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
+
+.section1{
+  margin-top: 60px;
+}
+
+.section2{
+  margin-top: 60px;
+}
+
+.section3{
+  margin-top: 60px;
+}
+
+.section4{
+  margin-top: 60px;
+}
+
+
 
 
 
@@ -90,10 +119,10 @@ body{
 /*A Community of Passionate Educators and Learners*/
 #D{
   text-align: center;
-  font-size: 3.5VW;
+  font-size: 3VW;
   margin-top: 4vw;
-    margin-bottom: 3vw;
- color: black;
+  margin-bottom: 3vw;
+  color: black;
   font-family: 'Yeon Sung', cursive;
 }
 
